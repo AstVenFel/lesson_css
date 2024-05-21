@@ -1,0 +1,4 @@
+Сопоставьте код
+
+Связанный стиль <link rel="stylesheet" href="./style.css" />
+Глобальный 
